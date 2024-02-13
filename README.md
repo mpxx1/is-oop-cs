@@ -1,4 +1,4 @@
-# ITMO OOP in C# course
+# ITMO OOP C# course
 
 ## This is a repository with the implementation of laboratory work of the OOP course in C# from ITMO University
 
