@@ -1,5 +1,5 @@
 # ITMO OOP C# course
 
-## This is a repository with the implementation of laboratory work of the OOP course in C# from ITMO University
+## This repository contains the implementation of laboratory works of the OOP C# ITMO University course  
 
 [Conditions](https://ronimizy.notion.site/Labs-ebf31349fa0a4c0d9328b198cfebed4e)
